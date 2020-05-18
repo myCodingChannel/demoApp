@@ -5,16 +5,15 @@
 export const environment = {
   production: false
 };
-//Replace with our congfig
 export const firebaseConfig = {
-  apiKey: "AIzaSycsdcdscdsc0aAy4sWopqGo8",
-  authDomain: "logicdcpp-f0b72.firebaseapp.com",
-  databaseURL: "https://loginapp-fcd72.fircdcseio.com",
+  apiKey: "AIzaSyBPKxqpPhjupuWRq-p5Gw0aAy4sWopqGo8",
+  authDomain: "loginapp-f0b72.firebaseapp.com",
+  databaseURL: "https://loginapp-f0b72.firebaseio.com",
   projectId: "loginapp-f0b72",
-  storageBucket: "logicdp-f0b72.appspot.com",
-  messagingSenderId: "695672321323178",
-  appId: "1:69567123213web:b9a047f38161235f73",
-  measurementId: "G-Y2HVZLASDDV"
+  storageBucket: "loginapp-f0b72.appspot.com",
+  messagingSenderId: "695679383178",
+  appId: "1:695679383178:web:b9a047f3816dcd3b115f73",
+  measurementId: "G-Y2HVZLVPTV"
 };
 
 
