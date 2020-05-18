@@ -1,3 +1,5 @@
+#Demo GIF   
+![](https://media.giphy.com/media/ehgAP5B4Y7jpjSiepj/source.gif)
 # DemoApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.5.
